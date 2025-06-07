@@ -1,2 +1,3 @@
 [project]
 name = "en-to-kana"
+version = "1.0.0"
