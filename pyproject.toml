@@ -6,3 +6,6 @@ dependencies = [
 	'argparse==1.4.0',
 	'tqdm==2.2.3'
 ]
+
+[tool.setuptools.package-data]
+en-to-kana = ["*.txt", "*.pickle"]
